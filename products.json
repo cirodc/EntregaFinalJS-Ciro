@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Guitarra Acústica",
+        "price": 200,
+        "image": "img/guitarra.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Teclado Electrónico",
+        "price": 300,
+        "image": "img/teclado.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Batería Completa",
+        "price": 500,
+        "image": "img/bateria.jpg"
+    },
+    {
+        "id": 4,
+        "name": "El Crack",
+        "price": 9999999999,
+        "image": "img/carpi.webp"
+    }
+]
